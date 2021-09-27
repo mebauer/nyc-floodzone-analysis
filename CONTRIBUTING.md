@@ -10,7 +10,7 @@ Always write a clear log message for your commits. One-line messages are fine fo
 
     $ git commit -m "A brief summary of the commit
     > 
-    > A paragraph describing what changed and its impact."
+    > A paragraph describing what change
     
 
 ## Coding Conventions
