@@ -8,6 +8,8 @@ Kindly find the analysis in the [floodzone-pfirm-analysis.ipynb](https://github.
 
 Contact information:
 
-[Twitter](https://twitter.com/markbauerwater)  
-[LinkedIn](https://www.linkedin.com/in/markebauer/)  
-[GitHub](https://github.com/mebauer)
+Twitter: [markbauerwater](https://twitter.com/markbauerwater)  
+LinedIn: [markebauer](https://www.linkedin.com/in/markebauer/)  
+GitHub: [mebauer](https://github.com/mebauer)
+
+![pfirm-nyc-map.png](pfirm-nyc-map.png)
