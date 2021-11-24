@@ -6,6 +6,8 @@ I've wanted to do this project for some time now, and I'm finally happy to share
 
 Kindly find the analysis in the [floodzone-pfirm-analysis.ipynb](https://github.com/mebauer/nyc-floodzone-analysis/blob/master/floodzone-pfirm-analysis.ipynb) notebook.
 
+You can run an interactive notebook on MyBinder - preferably Google Chrome:  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mebauer/nyc-floodzone-analysis/HEAD). When the page loads, click on the file *floodzone-pfirm-analysis.ipynb* on the left-hand side.
+
 Contact information:
 
 Twitter: [markbauerwater](https://twitter.com/markbauerwater)  
