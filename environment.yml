@@ -1,0 +1,11 @@
+name: environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - geopandas
+  - fiona
