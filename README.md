@@ -14,6 +14,9 @@ Note: When the page loads, click on the file *floodzone-pfirm-analysis.ipynb* on
 Kaggle:  
 The notebook can be accessed on Kaggle: [NYC's Flood Zone Exploratory Data Analysis](https://www.kaggle.com/mebauer/nyc-s-flood-zone-exploratory-data-analysis). 
 
+notebook{sharing}.space:  
+A static version of this notebook can be viewed on notebook-sharing-space: [New York City's Flood Zone Exploratory Data Analysis](https://notebooksharing.space/view/74cd0af14883ab36d32b5043694bfbfa44dca6a0d6298130a85a26440b191570#displayOptions=).
+
 Contact information:
 
 Twitter: [markbauerwater](https://twitter.com/markbauerwater)  
