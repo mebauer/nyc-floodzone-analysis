@@ -15,7 +15,7 @@ Kaggle:
 The notebook can be accessed on Kaggle: [NYC's Flood Zone Exploratory Data Analysis](https://www.kaggle.com/mebauer/nyc-s-flood-zone-exploratory-data-analysis). 
 
 notebook{sharing}.space:  
-A static version of this notebook can be viewed on notebook-sharing-space: [New York City's Flood Zone Exploratory Data Analysis](https://notebooksharing.space/view/74cd0af14883ab36d32b5043694bfbfa44dca6a0d6298130a85a26440b191570#displayOptions=).
+A static version of this notebook can be viewed on notebook-sharing-space: [New York City's Flood Zone Exploratory Data Analysis](https://notebooksharing.space/view/a85822c341a0eff11e7efe172d9c0e13d326dd122906179504b0964cf88ef473#displayOptions=).
 
 Contact information:
 

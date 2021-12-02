@@ -9,3 +9,4 @@ dependencies:
   - seaborn
   - geopandas
   - fiona
+  - watermark
