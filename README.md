@@ -25,4 +25,4 @@ GitHub: [mebauer](https://github.com/mebauer)
 
 *Keywords:* FEMA, Flood Insurance Rate Map, FIRM, National Flood Hazard Layer, NFHL, National Flood Insurance Program, NFIP, Flood, Flood Zone, Flood Map, New York City, NYC, Python, pandas, GeoPandas, GIS, Open Source
 
-![pfirm-nyc-map.png](pfirm-nyc-map.png)
+![pfirm-nyc-map.png](figures/pfirm-nyc-map.png)
