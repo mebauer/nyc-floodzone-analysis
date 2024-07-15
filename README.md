@@ -1,4 +1,4 @@
-# Exploring FEMA's Preliminary Flood Insurance Rate Map (PFIRM) For NYC Using Python
+# Exploring FEMA's 2015 Preliminary Flood Insurance Rate Map (PFIRM) For NYC Using Python
 
 Author: Mark Bauer
 
@@ -18,7 +18,7 @@ To learn more about Flood Insurance Rate Maps, check out [NYC's Flood Hazard Map
 - To inspect how to download the data, please see the [download-data.ipynb](https://github.com/mebauer/nyc-floodzone-analysis/blob/master/download-data.ipynb) notebook.
 
 # 3. Data
-The Preliminary Flood Insurance Rate Map (PFIRM) source data for NYC was downloaded from FEMA's [Region 2 Coastal Analysis and Mapping](https://r2-coastal-fema.hub.arcgis.com/pages/preliminary-flood-map-data) data page.
+The 2015 Preliminary Flood Insurance Rate Map (PFIRM) source data was downloaded from FEMA's [Region 2 Coastal Analysis and Mapping](https://r2-coastal-fema.hub.arcgis.com/pages/preliminary-flood-map-data) data page.
 
 # 4. Say Hello!
 Feel free to reach out.
