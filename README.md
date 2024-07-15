@@ -1,10 +1,12 @@
-# New York City's Preliminary Flood Insurance Rate Map (PFIRM) Exploratory Data Analysis Using Python
+# Exploring FEMA's Preliminary Flood Insurance Rate Map (PFIRM) For NYC Using Python
 
 Author: Mark Bauer
 
 ![pfirm-nyc-map.png](figures/pfirm-nyc-map.png)
 
 ![pfirm-nyc-map.png](figures/pfirm-zones.png)
+
+![pfirm-nyc-map.png](figures/manhattan-brooklyn-map.png)
 
 # 1. Introduction
 This notebook demonstrates how to analyze FEMA's Preliminary Flood Insurance Rate Map (i.e. PFIRM) with Python. The PFIRM is for New York City.
